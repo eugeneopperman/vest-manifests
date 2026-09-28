@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-23",
+  "generatedOn": "2026-09-28",
   "candidates": [
     {
       "id": "181d957982f290c0",
@@ -62,13 +62,109 @@
       "guessedValueCents": 20000,
       "status": "new",
       "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "3771b6418db20cf8",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/best-posts-last-week-80k-southwest-business-offer-amazon-audible-20-credit-more/",
+      "headline": "Best Posts Last Week: 80k Southwest Business Offer, Amazon Audible $20 Credit & More",
+      "publishedOn": "2026-09-28",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": null,
+      "guessedValueCents": 2000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "015617c1cf34e428",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+      "headline": "Rakuten: $150 Bonus For Citi Strata Premier Signup",
+      "publishedOn": "2026-09-28",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": "Citi",
+      "guessedValueCents": 15000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "0e1220765bb91adc",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ky-university-of-kentucky-federal-credit-union-200-checking-bonus/",
+      "headline": "[Northern KY] University of Kentucky Federal Credit Union $200 Checking Bonus",
+      "publishedOn": "2026-09-28",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": null,
+      "guessedValueCents": 20000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "13016a944c8c7136",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/bank-of-america-400-750-business-checking-bonus/",
+      "headline": "Bank of America $400-$2,500 Business Checking Bonus",
+      "publishedOn": "2026-09-27",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": "Bank of America",
+      "guessedValueCents": 250000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "95cdda38b77eae86",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/pa-md-only-acnb-400-checking-bonus-direct-deposit-optional/",
+      "headline": "[PA & MD only] ACNB $200-$600 Checking Bonus",
+      "publishedOn": "2026-09-27",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": null,
+      "guessedValueCents": 60000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "5bc63e2ae2b20bc9",
+      "source": "nerdwallet",
+      "sourceURL": "https://www.nerdwallet.com/banking/learn/switch-banks-to-earn-bonus",
+      "headline": "Should I Switch to a New Bank Just to Earn a Bonus?",
+      "publishedOn": "2026-09-24",
+      "seenOn": "2026-09-28",
+      "guessedInstitution": null,
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "272d410f2db0e91c",
+      "source": "chase-checking",
+      "sourceURL": "https://www.chase.com/personal/checking",
+      "headline": "Chase \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-09-28",
+      "guessedInstitution": "Chase",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
+    },
+    {
+      "id": "9553301d90a368a7",
+      "source": "capitalone-checking",
+      "sourceURL": "https://www.capitalone.com/bank/checking-accounts/",
+      "headline": "Capital One \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-09-28",
+      "guessedInstitution": "Capital One",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
     }
   ],
   "dismissed": [
     "a7b452169807bc2e"
   ],
   "pageHashes": {
-    "chase-checking": "38f47fba69e5a17726655251cae42fb78f7c79853c01341e09b3c8a64c911119",
-    "capitalone-checking": "38de587f823fd7263a07537c1285880fa0082f4b4953135f29fca2bc75fb95fb"
+    "chase-checking": "de5cc9f1daa76260ac4ad82a4576998bb743090bbb9620f403cb8e715048d6e1",
+    "capitalone-checking": "bf347ce549ea7068ee639beebd51b696c3b4eb9502c64a43fb2e3c132203bf57"
   }
 }
