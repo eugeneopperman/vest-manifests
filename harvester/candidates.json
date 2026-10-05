@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-23",
+  "generatedOn": "2026-10-05",
   "candidates": [
     {
       "id": "181d957982f290c0",
@@ -62,13 +62,85 @@
       "guessedValueCents": 20000,
       "status": "new",
       "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "3a982d33457a432e",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/bank-of-america-100-500-checking-bonus/",
+      "headline": "Bank of America $100-$500 Checking Bonus",
+      "publishedOn": "2026-10-05",
+      "seenOn": "2026-10-05",
+      "guessedInstitution": "Bank of America",
+      "guessedValueCents": 50000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "339fef9f59d7f736",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/fl-only-vystar-credit-union-175-checking-bonus/",
+      "headline": "[FL, GA only] VyStar Credit Union $175 Checking Bonus",
+      "publishedOn": "2026-10-05",
+      "seenOn": "2026-10-05",
+      "guessedInstitution": null,
+      "guessedValueCents": 17500,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "50205fb8b814e450",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ga-only-delta-community-credit-union-200-checking-bonus-direct-deposit-not-required/",
+      "headline": "[GA only] Delta Community Credit Union $250 Checking Bonus",
+      "publishedOn": "2026-10-04",
+      "seenOn": "2026-10-05",
+      "guessedInstitution": null,
+      "guessedValueCents": 25000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "22711ace89d5ddf6",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/az-only-vantagewest-credit-union-300-checking-bonus-direct-deposit-not-required/",
+      "headline": "[AZ] VantageWest Credit Union $200 Checking Bonus, Direct Deposit Not Required",
+      "publishedOn": "2026-10-04",
+      "seenOn": "2026-10-05",
+      "guessedInstitution": null,
+      "guessedValueCents": 20000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "62cf8260eb9ba540",
+      "source": "chase-checking",
+      "sourceURL": "https://www.chase.com/personal/checking",
+      "headline": "Chase \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-10-05",
+      "guessedInstitution": "Chase",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
+    },
+    {
+      "id": "4251526af0c37c17",
+      "source": "capitalone-checking",
+      "sourceURL": "https://www.capitalone.com/bank/checking-accounts/",
+      "headline": "Capital One \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-10-05",
+      "guessedInstitution": "Capital One",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
     }
   ],
   "dismissed": [
     "a7b452169807bc2e"
   ],
   "pageHashes": {
-    "chase-checking": "38f47fba69e5a17726655251cae42fb78f7c79853c01341e09b3c8a64c911119",
-    "capitalone-checking": "38de587f823fd7263a07537c1285880fa0082f4b4953135f29fca2bc75fb95fb"
+    "chase-checking": "fc2060a7324cc7b535e9401aa0968d877d1853dd7af6176a2c0f718968200b66",
+    "capitalone-checking": "b697121dfb5f7610d8eb744268a1ad4b9206f4de733ba177db5a2c52e447a51f"
   }
 }
