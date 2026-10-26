@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-23",
+  "generatedOn": "2026-10-26",
   "candidates": [
     {
       "id": "181d957982f290c0",
@@ -62,13 +62,145 @@
       "guessedValueCents": 20000,
       "status": "new",
       "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "4091f548bb640b63",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/best-posts-last-week-discover-300-double-cash-back-deal-100k-atmos-offer-1000-schwab-checking-bonus/",
+      "headline": "Best Posts Last Week: Discover $300 + Double Cash Back Deal, 100k Atmos Offer & $1,000 Schwab Checking Bonus",
+      "publishedOn": "2026-10-26",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": "Discover",
+      "guessedValueCents": 100000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "e9b7c92316c4e297",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ca-in-branch-columbia-bank-250-checking-bonus/",
+      "headline": "[CA, UT, CO In Branch] Columbia Bank $250 Checking Bonus",
+      "publishedOn": "2026-10-26",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": 25000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "cc483475794a8716",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/tx-only-a-federal-credit-union-250-checking-bonus/",
+      "headline": "[TX only] A+ Federal Credit Union $250 Checking Bonus",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": 25000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "5e3d473f6734c9bf",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ma-only-liberty-bank-lbcu-org-100-checking-bonus/",
+      "headline": "[MA Only] Liberty Bay Credit Union (lbcu.org) $100 Checking Bonus",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": 10000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "35b9a713ecb14c9c",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ct-ri-only-centreville-bank-200-checking-bonus/",
+      "headline": "[CT, RI only] Centreville Bank $200 Checking Bonus",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": 20000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "7648fa74f87e3961",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/american-express-transfer-bonus-35-to-marriott-11-35-2/",
+      "headline": "American Express Transfer Bonus: 35% To Marriott (1:1.35)",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": "American Express",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "f3fa9637282ec896",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/citi-thankyou-points-10-transfer-bonus-to-cathay-pacific-asia-miles-11-10/",
+      "headline": "Citi ThankYou Points 10% Transfer Bonus To Cathay Pacific Asia Miles (1:1.10)",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": "Citi",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "f7cded59828aa10d",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ut-only-uccu-300-checking-bonus/",
+      "headline": "[UT Only] UCCU $300 Checking Bonus",
+      "publishedOn": "2026-10-25",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": 30000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "2a2fa1b85a35248d",
+      "source": "nerdwallet",
+      "sourceURL": "https://www.nerdwallet.com/banking/learn/opening-everbank-savings-account",
+      "headline": "I Opened an EverBank Savings Account: It Went Well Except For One Thing",
+      "publishedOn": "2026-10-22",
+      "seenOn": "2026-10-26",
+      "guessedInstitution": null,
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "62cf8260eb9ba540",
+      "source": "chase-checking",
+      "sourceURL": "https://www.chase.com/personal/checking",
+      "headline": "Chase \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-10-26",
+      "guessedInstitution": "Chase",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
+    },
+    {
+      "id": "63beffb6525eb910",
+      "source": "capitalone-checking",
+      "sourceURL": "https://www.capitalone.com/bank/checking-accounts/",
+      "headline": "Capital One \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-10-26",
+      "guessedInstitution": "Capital One",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
     }
   ],
   "dismissed": [
     "a7b452169807bc2e"
   ],
   "pageHashes": {
-    "chase-checking": "38f47fba69e5a17726655251cae42fb78f7c79853c01341e09b3c8a64c911119",
-    "capitalone-checking": "38de587f823fd7263a07537c1285880fa0082f4b4953135f29fca2bc75fb95fb"
+    "chase-checking": "fc2060a7324cc7b535e9401aa0968d877d1853dd7af6176a2c0f718968200b66",
+    "capitalone-checking": "26a2546df8b9b89072cfc9695a1c578b37bff5e43faa9c1af7386ca516a74aca"
   }
 }
