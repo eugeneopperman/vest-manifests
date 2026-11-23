@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedOn": "2026-08-23",
+  "generatedOn": "2026-11-23",
   "candidates": [
     {
       "id": "181d957982f290c0",
@@ -62,13 +62,97 @@
       "guessedValueCents": 20000,
       "status": "new",
       "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "208dca91470775ae",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/netspend-200-checking-bonus/",
+      "headline": "Netspend $200 Checking Bonus",
+      "publishedOn": "2026-11-23",
+      "seenOn": "2026-11-23",
+      "guessedInstitution": null,
+      "guessedValueCents": 20000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "ee0e628818a8ebe1",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/lili-fintech-300-business-checking-bonus/",
+      "headline": "Lili (Fintech) $300 Business Checking Bonus",
+      "publishedOn": "2026-11-23",
+      "seenOn": "2026-11-23",
+      "guessedInstitution": null,
+      "guessedValueCents": 30000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "583207fa732d7297",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ca-only-keypoint-credit-union-200-checking-bonus/",
+      "headline": "[CA only] KeyPoint Credit Union $300 Checking Bonus",
+      "publishedOn": "2026-11-23",
+      "seenOn": "2026-11-23",
+      "guessedInstitution": null,
+      "guessedValueCents": 30000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "9baad8dd9095d5b1",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required/",
+      "headline": "[WI, MN Only] Westconsin Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+      "publishedOn": "2026-11-23",
+      "seenOn": "2026-11-23",
+      "guessedInstitution": null,
+      "guessedValueCents": 50000,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "40dae7aa4bf8539e",
+      "source": "doctorofcredit",
+      "sourceURL": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
+      "headline": "UberEats: Promo Codes, Discounts & Other Savings: $11.25 off $18+",
+      "publishedOn": "2026-11-22",
+      "seenOn": "2026-11-23",
+      "guessedInstitution": null,
+      "guessedValueCents": 1800,
+      "status": "new",
+      "note": "Lead only \u2014 nobody has read these terms. Open the issuer's own page before publishing."
+    },
+    {
+      "id": "ac198f3f89060838",
+      "source": "chase-checking",
+      "sourceURL": "https://www.chase.com/personal/checking",
+      "headline": "Chase \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-11-23",
+      "guessedInstitution": "Chase",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
+    },
+    {
+      "id": "ef16cb147ec4c419",
+      "source": "capitalone-checking",
+      "sourceURL": "https://www.capitalone.com/bank/checking-accounts/",
+      "headline": "Capital One \u2014 checking offers \u2014 page changed",
+      "publishedOn": null,
+      "seenOn": "2026-11-23",
+      "guessedInstitution": "Capital One",
+      "guessedValueCents": null,
+      "status": "new",
+      "note": "The page's visible text changed. That is not an offer \u2014 it may be a layout tweak. Open it and see."
     }
   ],
   "dismissed": [
     "a7b452169807bc2e"
   ],
   "pageHashes": {
-    "chase-checking": "38f47fba69e5a17726655251cae42fb78f7c79853c01341e09b3c8a64c911119",
-    "capitalone-checking": "38de587f823fd7263a07537c1285880fa0082f4b4953135f29fca2bc75fb95fb"
+    "chase-checking": "5fa88ab8686b4e65edb3edc4bc17fc2fbd71b11278548988373ade53e4a19fb3",
+    "capitalone-checking": "534328fc42245409d6df446723ca3b21f1a637979221b6899dc6b02098a45a84"
   }
 }
